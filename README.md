@@ -50,13 +50,6 @@
 - **Mern-blog** — a full-stack blog application with a TypeScript frontend.
 - **React-Components** — a collection of reusable, typed React components.
 
-### GitHub stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=amalfrost&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amalfrost&layout=compact&hide_border=true" alt="Top languages"/>
-</p>
-
 ### Let's connect
 
 I'm open to **frontend and full-stack engineering** opportunities. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/amal-rj/).
