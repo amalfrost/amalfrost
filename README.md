@@ -12,7 +12,7 @@
 ### About me
 
 - Frontend engineer with **~5 years** of experience building scalable, production-grade web applications.
-- Currently at **Quess Corp**, working for **Daimler** on **TechDex**, a large-scale React **Micro Frontend (MFE)** platform.
+- Currently at **Quess Corp**, building large-scale React **Micro Frontend (MFE)** applications.
 - Previously delivered frontend work at **Air India** and **Infosys**.
 - Expanding into **backend development with Java and Spring Boot** to work across the full stack.
 - Care about clean component architecture, type safety, performance, and maintainable state management.
